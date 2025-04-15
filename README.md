@@ -1,6 +1,6 @@
 # Inverse Kinematics with Invertible Neural Network
 
-This project implements **Inverse Kinematics (IK)** using an **Invertible Neural Network (INN)**. Given a desired end-effector (target) position of a robotic arm, the model learns to predict **all valid joint configurations** that can achieve that position. Additionally, users can modify the number of joints and any other parameters, This code also gives a visualization of all the arms.
+This project implements **Inverse Kinematics (IK)** using an **Invertible Neural Network (INN)**. Given a desired end-effector (target) position of a robotic arm, the model learns to predict **all valid joint configurations** that can achieve that position. Additionally, users can modify the number of joints and any other parameters, This code also gives a visualization of all the arms. 
 
 ## Features
 
@@ -19,3 +19,4 @@ In many IK scenarios, a single target position can correspond to **multiple join
 ---
 
 
+*This project was developed as part of the UMC203 course. You can also explore my teammate's implementation using INNs [here](https://github.com/IISc-UMC-203)*
